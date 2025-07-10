@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /style.css
+Disallow: /responsive.css
+Disallow: /script.js
+
+
+Sitemap: https://aez-tech.github.io/sitemap.xml
