@@ -4,4 +4,7 @@ Disallow: /responsive.css
 Disallow: /script.js
 Allow: /
 
+User-agent: Googlebot 
+Allow: /
+
 Sitemap: https://aez-tech.github.io/sitemap.xml
