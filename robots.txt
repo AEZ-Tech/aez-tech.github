@@ -5,6 +5,9 @@ Disallow: /script.js
 Allow: /
 
 User-agent: Googlebot 
+Disallow: /style.css
+Disallow: /responsive.css
+Disallow: /script.js
 Allow: /
 
-Sitemap: https://aez-tech.github.io/sitemap.xml
+Sitemap: https://aez-tech.site/sitemap.xml
