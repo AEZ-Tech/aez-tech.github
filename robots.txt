@@ -2,12 +2,16 @@ User-agent: *
 Disallow: /style.css
 Disallow: /responsive.css
 Disallow: /script.js
+Disallow: /.github
+Disallow: /site
 Allow: /
 
 User-agent: Googlebot 
 Disallow: /style.css
 Disallow: /responsive.css
 Disallow: /script.js
+Disallow: /.github
+Disallow: /site
 Allow: /
 
 Sitemap: https://aez-tech.site/sitemap.xml
