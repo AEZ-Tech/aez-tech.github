@@ -4,6 +4,7 @@ Disallow: /responsive.css
 Disallow: /script.js
 Disallow: /CNAME
 Disallow: /.nojekyll
+Disallow: /404.html
 Allow: /
 
 User-agent: Googlebot 
@@ -12,6 +13,7 @@ Disallow: /responsive.css
 Disallow: /script.js
 Disallow: /CNAME
 Disallow: /.nojekyll
+Disallow: /404.html
 Allow: /
 
 Sitemap: https://aez-tech.site/sitemap.xml
