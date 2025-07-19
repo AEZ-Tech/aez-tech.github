@@ -2,8 +2,7 @@ User-agent: *
 Disallow: /style.css
 Disallow: /responsive.css
 Disallow: /script.js
-Disallow: /.github
-Disallow: /site
+Disallow: /CNAME
 Disallow: /.nojekyll
 Allow: /
 
@@ -11,8 +10,7 @@ User-agent: Googlebot
 Disallow: /style.css
 Disallow: /responsive.css
 Disallow: /script.js
-Disallow: /.github
-Disallow: /site
+Disallow: /CNAME
 Disallow: /.nojekyll
 Allow: /
 
